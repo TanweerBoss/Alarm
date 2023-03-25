@@ -38,7 +38,7 @@
       // Create the alarm object
       const alarm = {
         time: alarmTimeDate,
-        message: `I LOVE YOU MY LOVE, MY JAAN FARHA at ${alarmTime}`
+        message: `Walk Up! at ${alarmTime}`
       };
 
       // Add the alarm to the list
