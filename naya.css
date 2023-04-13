@@ -42,6 +42,10 @@ header input {
   border-radius: 3px;
   font-family: inherit;
   padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
 header button {
@@ -50,6 +54,9 @@ header button {
   color: rgb(138, 129, 141);
   font-size: 1.5rem;
   margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .fav-container {
